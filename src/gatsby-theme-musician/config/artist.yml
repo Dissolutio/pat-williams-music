@@ -1,0 +1,18 @@
+artist:
+  name: Pat Williams
+  tagline: Finger pickin' good
+  seo_title: Pat Williams Music | ATX Vocals & Guitar
+  seo_description: Central Texas folk tunes from Austin, United States
+  contact_twitter_username: thisaccountdoesnotexist
+  contact_phone: 1-800-my-fake-number
+  contact_email: patrick@patwilliamsmusic.com
+
+social:
+  - name: Instagram
+    url: https://instagram.com/patwilliamsmusic
+  - name: Twitter
+    url: https://twitter.com/patwilliamsmusic
+  - name: Youtube
+    url: https://youtube.com/patwilliamsmusic
+
+site_language: en

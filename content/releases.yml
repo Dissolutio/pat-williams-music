@@ -1,0 +1,41 @@
+- title: A Taste For Crow
+  date: 2010-01-01
+  # release_type: Single
+  image: "./album-1.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/track/4uLU6hMCjMI75M1A2tKUQC
+    - name: Apple
+      url: https://music.apple.com/au/music-video/never-gonna-give-you-up/277040657
+
+- title: 44 Miles to Independence
+  date: 2011-01-01
+  # release_type: Single
+  image: "./album-2.jpg"
+  links:
+    - name: YouTube
+      url: https://www.youtube.com/watch?v=ndIIYDL2mGs
+
+- title: Leon River Blues
+  date: 2009-01-01
+  # release_type: Compilation
+  image: "./album-3.jpg"
+  links:
+    - name: YouTube
+      url: https://www.youtube.com/watch?v=ndIIYDL2mGs
+
+- title: Imperfect Lens
+  date: 2019-01-01
+  # release_type: Compilation
+  image: "./album-1.jpg"
+  links:
+    - name: YouTube
+      url: https://www.youtube.com/watch?v=ndIIYDL2mGs
+
+- title: Sit There and Stare
+  date: 2007-01-01
+  # release_type: Compilation
+  image: "./album-2.jpg"
+  links:
+    - name: YouTube
+      url: https://www.youtube.com/watch?v=ndIIYDL2mGs

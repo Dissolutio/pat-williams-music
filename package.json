@@ -1,0 +1,30 @@
+{
+  "name": "pat-williams-music",
+  "description": "Musician website",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "dependencies": {
+    "gatsby": "^2.13.45",
+    "gatsby-theme-musician": "^1.0.5",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dissolutio/pat-williams-music"
+  },
+  "bugs": {
+    "url": "https://github.com/Dissolutio/pat-williams-music/issues"
+  }
+}
